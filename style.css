@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(235, 140, 235);
+  }
+
+  p {
+    color: rgb(219, 176, 119);
+  }
+
+  .wrapper {
+    display: flex;
+}
+
+.wrapper > div {
+    flex: 1;
+}
